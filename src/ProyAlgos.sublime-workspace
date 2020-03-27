@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1"
+			],
+			[
+				"promedio",
+				"promedios_quickDual"
+			],
+			[
+				"dibu",
+				"dibujar_grafica"
+			],
+			[
+				"tb",
+				"tbucks"
+			],
+			[
+				"tq",
+				"tquiit"
+			],
+			[
+				"quick",
+				"quickSortIt"
+			],
+			[
+				"quic",
+				"quickSortIt"
+			],
+			[
+				"merge",
+				"mergeSort"
+			],
+			[
+				"consu",
+				"consumoDiagonal"
+			],
+			[
+				"ficha",
+				"fichas_restantes"
+			],
+			[
+				"checl",
+				"check_diagonal"
+			],
+			[
+				"check",
+				"check_vertical"
+			],
+			[
+				"fich",
+				"ficha"
+			],
+			[
+				"fic",
+				"ficha"
+			],
+			[
+				"entrada",
+				"entrada2lista"
+			],
+			[
+				"x",
+				"xcambio"
+			],
+			[
+				"juga",
+				"jugada_en_tablero"
+			],
+			[
+				"dire",
+				"direccionesCambio"
+			],
+			[
+				"fichas",
+				"fichasAVoltear"
+			],
+			[
+				"di",
+				"direcciony"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"n",
+				"ns\tNamespace"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"fo",
+				"float"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"jugada",
+				"jugada_en_tablero"
+			],
+			[
+				"de",
+				"draw_text"
+			],
+			[
+				"boa",
+				"board"
+			],
+			[
+				"draw",
+				"draw_text"
+			],
+			[
+				"f_",
+				"f_blanca"
+			],
+			[
+				"load",
+				"load_data"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"plat",
+				"Platform"
+			],
+			[
+				"pla",
+				"platforms"
+			],
+			[
+				"PLA",
+				"PLAYER_ACC"
+			],
+			[
+				"P",
+				"PLAYER_ACC"
+			],
+			[
+				"edi",
+				"editar_perfil"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"a",
+				"align-self\tproperty"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"For",
+				"FormRegistro"
+			],
+			[
+				"con",
+				"contraseña"
+			],
+			[
+				"F",
+				"FlaskForm"
+			],
+			[
+				"ur",
+				"url_for"
+			],
+			[
+				"datetime",
+				"datetime"
+			],
+			[
+				"inici",
+				"iniciarSesion"
+			],
+			[
+				"aju",
+				"ajustes"
+			],
+			[
+				"ajus",
+				"Ajustes"
+			],
+			[
+				"es",
+				"esMultiplo"
+			],
+			[
+				"mas",
+				"masDeCincoAnyosDeEstudio"
+			],
+			[
+				"puede",
+				"puedeParticipar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem10/dlist.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem10/hash_table.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem10/CucoTabla.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem10/testing_hash_tabla.py",
+		"/home/miguelp/algos/prueba_orderlib.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem5/prueba_ord.py",
+		"/home/miguelp/algos/orderlib.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem5/ordenamiento.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Proyecto1_Algos2-master/orderlib.py",
+		"/home/miguelp/algos/p1.py",
+		"/home/miguelp/Escritorio/yisus.txt",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Proyecto1_Algos2-master/prueba.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Proyecto1_Algos2-master/prueba_orderlib.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/LabSem5_17-10066/ordenamiento.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/LabSem5_17-10066/prueba_ord.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/ordenamiento.py",
+		"/home/miguelp/Documentos/Documents/Prog/EGYPIZZA.cpp",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem4/ordenamiento.py",
+		"/home/miguelp/Miguel Pérez/gabo/prueba_ord.py",
+		"/home/miguelp/Miguel Pérez/gabo/ordenamiento.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem4/resultados.txt",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem4/prueba_ord.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem3/graficar_puntos.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem3/ordenamiento.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem3/prueba_ord.py",
+		"/home/miguelp/Documentos/Documents/Prog/input.txt",
+		"/home/miguelp/Documentos/Documents/Prog/ACPC10A.cpp",
+		"/home/miguelp/Documentos/Documents/Prog/NSTEPS.cpp",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem2/prueba_ord.py",
+		"/home/miguelp/Documentos/Documents/USB/Algoritmos/II/Lab/Sem2/ordenamiento.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Proyecto-algorimos-1-master/ordenamiento.pyç",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Proyecto-algorimos-1-master/game.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Proyecto/ajustes.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Proyecto/sprites.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Proyecto/main.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Proyecto-algorimos-1-master/sprites.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Proyecto-algorimos-1-master/settings.py",
+		"/home/miguelp/Descargas/Telegram Desktop/miguel (4).c",
+		"/home/miguelp/Descargas/Telegram Desktop/miguel (3).c",
+		"/home/miguelp/Descargas/Telegram Desktop/miguel.c",
+		"/mnt/c/Users/Miguel Pérez/Trabajo/Fiverr/C/stepanjan/main.c",
+		"/mnt/c/Users/Miguel Pérez/Trabajo/Fiverr/C/stepanjan/main.cpp",
+		"/home/miguelp/contranportusb/app/templates/inicio.html",
+		"/mnt/c/Users/Miguel Pérez/Trabajo/Fiverr/C/benjo_s/main.cpp",
+		"/home/miguelp/pygame/platform/sprites.py",
+		"/home/miguelp/pygame/platform/settings.py",
+		"/home/miguelp/pygame/platform/main.py",
+		"/home/miguelp/pygame/platform/pygame_template.py",
+		"/home/miguelp/flask1/app/templates/usuario.html",
+		"/home/miguelp/flask1/app/routes.py",
+		"/home/miguelp/flask1/app/formularios.py",
+		"/home/miguelp/flask1/app/templates/editar_perfil.html",
+		"/home/miguelp/flask1/app/modelos.py",
+		"/home/miguelp/flask1/app/templates/_publicacion.html",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab09/Lab09Ejercicio3r.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab09/Lab09Ejercicio3c.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab09/Lab09Ejercicio1r.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab09/Lab09Ejercicio1c.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab09/vueltoVersionRobusta.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab09/vueltoVersionContrato.py",
+		"/home/miguelp/recaudtransp/app/templates/inicio.html",
+		"/home/miguelp/recaudtransp/main.py",
+		"/home/miguelp/recaudtransp/app/__init__.py",
+		"/home/miguelp/recaudtransp/app/routes.py",
+		"/home/miguelp/recaudtransp/app/templates/base.html",
+		"/home/miguelp/recaudtransp/config.py",
+		"/home/miguelp/recaudtransp/app/forms.py",
+		"/home/miguelp/recaudtransp/.flaskenv",
+		"/home/miguelp/recaudtransp/src/__init__.py",
+		"/home/miguelp/flask1/app/templates/base.html",
+		"/home/miguelp/flask1/app/templates/registro.html",
+		"/home/miguelp/flask1/app/templates/iniciar_sesion.html",
+		"/home/miguelp/flask1/app/__init__.py",
+		"/home/miguelp/flask1/app/templates/index.html",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/proyectolabalgos/Lab06Ejercicio2.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/proyectolabalgos/Lab07Ejercicio3.py",
+		"/home/miguelp/flask1/config.py",
+		"/home/miguelp/flask1/blog.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab07/Lab07Ejercicio3.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab07/Lab07Ejercicio3.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab07/Lab07Ejercicio2.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab07/Lab07Ejercicio2.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab07/Lab07Ejercicio1.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab07/Lab07Ejercicio1.py",
+		"/home/miguelp/flask1/app/templates/iniciars.html",
+		"/home/miguelp/flask1/.flaskenv",
+		"/home/miguelp/flask1/app/ajustes.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab06/Lab06Ejercicio3.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab06/Lab06Ejercicio4.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab06/Lab06Ejercicio2.py",
+		"/home/miguelp/microblog/test/__init__.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab06/Lab06Ejercicio2.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab06/Lab06Ejercicio1.py",
+		"/home/miguelp/microblog/.flaskenv",
+		"/home/miguelp/microblog/test/templates/index.html",
+		"/home/miguelp/microblog/test/templates/base.html",
+		"/home/miguelp/microblog/test/routes.py",
+		"/home/miguelp/microblog/microblog.py",
+		"/home/miguelp/Flask/microblog.py",
+		"/home/miguelp/Flask/test/routes.py",
+		"/home/miguelp/Flask/test/__init__.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab05/Lab05Ejercicio3.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab05/Lab05Ejercicio2.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab05/Lab05Ejercicio2.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab05/Lab05Ejercicio1.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab04/Lab04Ejercicio2.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab04/Lab04Ejercicio2.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab04/Lab04Ejercicio3.py",
+		"/home/miguelp/Documentos/Documents/Programacion/spoj1.py",
+		"/home/miguelp/Documentos/Documents/Prog/a.cpp",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab04/Lab04Ejercicio1.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab04/Lab04Ejercicio1.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio4.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio3.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio6.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio1.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio2.py",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio1.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio5.gcl",
+		"/home/miguelp/Documentos/Documents/USB/labalgoritmos1/Lab03/Lab03Ejercicio2.gcl",
+		"/home/miguelp/Documentos/Documents/USB/LDC/3H/8.-Tarea de DNS.txt",
+		"/home/miguelp/Documentos/Documents/USB/LDC/3H/5.-Tarea de archivos y permisos.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"display_graph",
+			"Timsort",
+			"Introsort: ",
+			"Median-of-3 Quicksort: ",
+			"Quicksort Iterativo: ",
+			"mensaje_ini",
+			"print",
+			"promedios_quickDual",
+			"Timsort",
+			"display_graph",
+			"median",
+			"partitionLoop",
+			"A",
+			"minrun",
+			"timsortç",
+			"timsort",
+			"ti",
+			"timsort",
+			"sys",
+			"quicksort",
+			"B = A[:]",
+			"quick",
+			"i",
+			"ejecución de Merge Sort Insertion es:",
+			"ejecución de Merge Sort Iterativo es:",
+			"ejecución de Merge Sort es:",
+			"ejecución de Selection Sort es:",
+			"ejecución de Shell Sort es:",
+			"ejecución de Bubble Sort es:",
+			"ejecución de Insertion Sort es:",
+			"a",
+			"ancho",
+			"draw_text",
+			"z",
+			"y",
+			"x",
+			"z",
+			"x",
+			"y",
+			"z",
+			"y",
+			"x",
+			"z",
+			"x",
+			"y",
+			"z",
+			"x",
+			"y",
+			"z",
+			"y",
+			"x",
+			"z",
+			"x",
+			"y",
+			"z",
+			"y",
+			"x",
+			"y",
+			"z_pos",
+			"[z_pos",
+			"self.size",
+			"player",
+			"points",
+			"name",
+			"player_two",
+			"player_one",
+			"ventana",
+			"ancho",
+			"player_one",
+			"draw_text",
+			"ventana",
+			"wait_for_event",
+			"name_two",
+			"name_tw",
+			"name_two_done",
+			"name_one",
+			"name_one_done",
+			"name_one",
+			"WHIte",
+			"pow",
+			"figure",
+			"cout",
+			"M_PI",
+			"**",
+			"self.turno",
+			"turno",
+			"draw_text",
+			"board",
+			"last_play",
+			"player",
+			"jugador",
+			"jugado\t",
+			"player",
+			"segment_size",
+			"player",
+			"diagonals",
+			"player",
+			"board",
+			"x",
+			"image",
+			"x_image",
+			"size",
+			"x_image",
+			"load_data",
+			"floor",
+			"depth",
+			"SIZE",
+			"ventana",
+			"tablero",
+			"board",
+			"tablero",
+			"depth",
+			"Board",
+			"Surface",
+			"Board",
+			"WHITE",
+			"BLACK",
+			"image",
+			"player",
+			"pygame",
+			"hidden",
+			"request",
+			"reques",
+			"function",
+			"%}",
+			"idd",
+			"form",
+			"iniciars"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ProyAlgos.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
