@@ -1,2 +1,2 @@
-# miguepersa-gmail.com
-pygame-musicplayer
+# ProyAlgos
+ProyAlgos
