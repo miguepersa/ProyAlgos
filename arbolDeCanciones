@@ -1,0 +1,108 @@
+from cancion import *
+
+class Nodo(object):
+
+    def __init__(self, data):
+        self.dato = data
+        self.left = None
+        self.right = None
+
+
+    def insertar(self, elemento):
+        if self.dato == elemento:
+            return False
+        elif (self.dato.interprete != elemento.interprete):
+            if (self.dato.interprete > elemento.interprete):
+                if self.left:
+                    return self.left.insertar(elemento)
+                else:
+                    self.left = Nodo(elemento)
+                    return True
+            else:
+                if self.right:
+                    return self.right.insertar(elemento)
+                else:
+                    self.right = Nodo(elemento)
+                    return True
+        elif (self.dato.interprete == elemento.interprete):
+            if (self.dato.titulo > elemento.titulo):
+                if self.left:
+                    return self.left.insertar(elemento)
+                else:
+                    self.left = Nodo(elemento)
+                    return True
+            else:
+                if self.right:
+                    return self.right.insertar(elemento)
+                else:
+                    self.right = Nodo(elemento)
+                    return True
+
+    
+    def buscar(self, data):
+        if self.dato == data:
+            return True
+        elif self.dato.interprete > data.interprete:
+            if self.left:
+                return self.left.buscar(data)
+            else:
+                return False
+        else:
+            if self.right:
+                return self.right.buscar(data)
+            else:
+                return False
+
+
+    def inorder(self):
+        if self:
+            if self.left:
+                self.left.inorder()
+            print(str(self.dato.aString()))
+            if self.right:
+                self.right.inorder()
+
+            
+class arbolDeCanciones(object):
+    def __init__(self):
+        self.raiz = None
+    
+
+    def insertar(self, elemento):
+        if self.raiz:
+            return self.raiz.insertar(elemento)
+        else:
+            self.raiz = Nodo(elemento)
+            return True
+    
+    def buscar(self, data):
+        if self.raiz:
+            return self.raiz.buscar(data)
+        else:
+            return False
+
+
+    def inorder(self):
+        print("En-Orden: ")
+        self.raiz.inorder()
+
+
+    def minimo(self, subArbol):
+        act = subArbol
+        while act.left is not None:
+            act = act.left
+        return act.clave
+
+
+    def maximo(self, subArbol):
+        act = subArbol
+        while act.right is not None:
+            act = act.right
+        return act.clave
+
+    
+    def eliminar(self, interprete, titulo):
+        
+
+
+    
